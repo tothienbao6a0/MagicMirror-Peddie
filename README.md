@@ -1,0 +1,2 @@
+# MagicMirror
+magicmirror code
